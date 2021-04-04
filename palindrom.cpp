@@ -11,9 +11,9 @@ int main(){
 		rev=rev*10+n%10; //2*10+1=21
 		
 	}if(m==rev){
-		cout<<"yes";
+		cout<<"YES";
 	}else{
-		cout<<"no";
+		cout<<"NO";
 	}
 	
 	
